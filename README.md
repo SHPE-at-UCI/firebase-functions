@@ -8,8 +8,8 @@
 [![a youtube video on firebase functions](https://img.youtube.com/vi/DYfP-UIKxH0/0.jpg)](https://www.youtube.com/watch?v=DYfP-UIKxH0&list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM)
 
 ## Install
-NodeJs 14 - http://nodejs.org - write serverless functions
-Firebase CLI - https://firebase.google.com/docs/cli - to Login, Deploy functions
+1. NodeJs 14 - http://nodejs.org - write serverless functions
+2. Firebase CLI - https://firebase.google.com/docs/cli - to Login, Deploy functions
 
 ## 2) Run Local NodeJs Server
 On the root directory, run the following commands
