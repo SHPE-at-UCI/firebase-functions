@@ -1,13 +1,17 @@
 # firebase-functions
+- Firebase lets you run serverless Cloud Functions (backend code) in response to HTTPS requests or Firebase event triggers
 
-We will be using NodeJs 14 to write serverless functions on the Firebase Cloud Platform
-Deploying through the Firebase CLI
+- Go thru our sequential steps to learn how to code, test, or deploy serverless functions
+
+
+## Background Knowledge 
+[![a youtube video on firebase functions](https://img.youtube.com/vi/DYfP-UIKxH0/0.jpg)](https://www.youtube.com/watch?v=DYfP-UIKxH0&list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM)
 
 ## Install
-Node - http://nodejs.org
+NodeJs 14 - http://nodejs.org - write serverless functions
+Firebase CLI - https://firebase.google.com/docs/cli - to Login, Deploy functions
 
 ## 2) Run Local NodeJs Server
-
 On the root directory, run the following commands
 
 | Windows                        | Linux & Mac:             |
